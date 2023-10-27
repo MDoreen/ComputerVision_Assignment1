@@ -1,1 +1,1 @@
-# ComputerVision_Assignment1
+# This repository is for all computer vision projects.
